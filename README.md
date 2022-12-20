@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋%20こんにちは%20・%20Hi%20there&fontSize=30&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👀%20こんにちは%20・%20Hi%20there&fontSize=30&fontAlignY=38)
 
 <h2>:cupid: Greetings</h2>
 &thinsp;
