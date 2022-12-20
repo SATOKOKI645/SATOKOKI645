@@ -32,10 +32,10 @@
 
 &thinsp;
 
-<a href="https://zenn.dev/luvmini511" target="_blank" rel="noopener noreferrer"><img src="https://ramble.impl.co.jp/author/52/"/></a>
+<a href="hhttps://ramble.impl.co.jp/author/52/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/rambleの記事-3ea8ff?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
   
   
-<a href="https://zenn.dev/luvmini511" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/みんちゃんの記事一覧-3ea8ff?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://zenn.dev/satokoki645" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zennの記事-3ea8ff?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
 &thinsp;
 
