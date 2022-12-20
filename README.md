@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvmini511&layout=compact)](https://github.com/luvmini511/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satokoki645&layout=compact)](https://github.com/satokoki645/github-readme-stats)
 
 &thinsp;
 
