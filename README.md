@@ -43,6 +43,6 @@
 
 &thinsp;
 
-<a href="mailto:satokoki645@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gardensky511@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:satokoki645@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/satokoki645@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </div>
