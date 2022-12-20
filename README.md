@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋%20안녕하세요%20・%20こんにちは%20・%20Hi%20there&fontSize=30&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋%20こんにちは%20・%20Hi%20there&fontSize=30&fontAlignY=38)
 
 <h2>:cupid: Greetings</h2>
 &thinsp;
@@ -43,6 +43,6 @@
 
 &thinsp;
 
-<a href="mailto:gardensky511@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gardensky511@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:satokoki645@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gardensky511@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </div>
