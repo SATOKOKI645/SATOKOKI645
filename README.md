@@ -11,10 +11,6 @@
 
 &thinsp;
 
-<h2>:books: Skills</h2>
-
-&thinsp;
-
 <h2>:pencil2: Writings</h2>
 
 &thinsp;
